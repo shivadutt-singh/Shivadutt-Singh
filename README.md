@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  
+<!-- HEADER SECTION -->
+# ⚡ SHIVADUTT SINGH
+### FOUNDER • FULL-STACK AI ENGINEER • SAAS ARCHITECT
+  
+![Profile Views](https://komarev.com/ghpvc/?username=shivadutt-singh&label=Profile%20Views&color=8a2be2&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/shivadutt-singh?label=Followers&style=flat-square&color=4169e1)
+![GitHub stars](https://img.shields.io/github/stars/shivadutt-singh?style=flat-square&color=blueviolet)
 
-<!--
-**shivadutt-singh/Shivadutt-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!-- TERMINAL INTRO SECTION -->
+### 👨‍💻 `cat profile.json`
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Shivadutt Singh",
+  "role": "Founder & AI Software Engineer",
+  "education": "B.Tech Computer Science (3rd Year)",
+  "focus": "Building Intelligent Micro-SaaS & Vibe Coding Ecosystems",
+  "goal": "Scaling DevShift & Orchestrating Complex AI Agents",
+  "leadership": "Team Lead at TechExpo & AIgnition Participant"
+}

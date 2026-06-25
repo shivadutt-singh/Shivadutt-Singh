@@ -24,4 +24,33 @@
   "focus": "Building Intelligent Micro-SaaS & Vibe Coding Ecosystems",
   "goal": "Scaling Commercial SaaS Architectures & Orchestrating Complex AI Agents"
 }
-🎯 What I Do💡 Quick Factscurrently_building:- DevShift: Commercial Work Experience Simulator SaaS.- AutoPitch AI: Automated Pitch Deck Generator.- AI Tools: Vulnerability Analyzers & Health Reports.areas_of_expertise:- 🤖 AI Integration (Gemini, Llama, Claude API)- ⚡ Vibe Coding (Cursor, Antigravity)- 🌐 Full-Stack Web Development (Next.js/React)- 📊 Software Project Management- 🚀 Mindset: Fast Deployment & Micro-SaaS Monetization- 👑 Leadership: Team Lead at TechExpo- 🏆 Competitive: Active in AIgnition Hackathons- 🌱 Design Philosophy: Minimalist, premium dark-mode UIs (Vercel/Linear aesthetic)- ⚡ Always: Learning new LLM architectures
+🔭 Currently Building: DevShift — A real-world, commercial Work Experience Simulator SaaS featuring simulated industry environments (Jira boards, AI-led code reviews).
+
+🚀 Recent Success: Engineered and deployed AutoPitch AI (an automated pitch deck generator) from scratch for the Octo-Universe Hackathon.
+
+🧠 Currently Learning: Advanced Software Project Management (Walker Royce frameworks, PERT/CPM) and optimizing API logic for high-performance enterprise applications.
+
+👑 Leadership & Strategy: Serving as a Team Lead at TechExpo and actively driving innovation in the AIgnition Hackathon series.
+
+⚡ Development Approach: Leveraging AI IDEs (Cursor, Antigravity, Codex) for high-speed 'vibe coding' and rapid MVP deployment.
+
+🎨 Design Philosophy: Obsessed with minimalist, premium dark-mode UIs mirroring the Vercel and Linear aesthetic.
+
+💼 Business Mindset: Focused on SaaS monetization, AI automation agencies, and scaling passive income streams through robust software solutions.
+
+💻 Programming Languages
+
+
+
+
+🌐 Full-Stack Web Development
+
+
+
+
+🤖 AI & Machine Learning Integrations
+
+
+
+
+🛠 Tools, IDEs & Platforms

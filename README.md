@@ -12,7 +12,7 @@
 <br>
 
 <!-- TERMINAL INTRO SECTION -->
-<h3 align="left">👨‍💻 <code>cat profile.json</code></h3>
+<h3 align="left">👨‍💻 <code>profile.json</code></h3>
 </div>
 
 ```json

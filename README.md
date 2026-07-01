@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#22ce7e&height=150&section=header&text=SHIVADUTT%20SINGH&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22ce7e&height=150&section=header&text=SHIVADUTT%20SINGH&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 ### AI DEVELOPER • SAAS FOUNDER • FULL-STACK ENGINEER
   
